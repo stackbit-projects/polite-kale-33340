@@ -6,9 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Foto Estación
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: Solución integral fotográfica
     actions:
       - label: Learn More
         url: /features
