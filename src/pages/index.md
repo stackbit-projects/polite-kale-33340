@@ -8,7 +8,7 @@ sections:
     title: Foto Estación
     content: Solución integral fotográfica
     actions:
-      - label: Learn More
+      - label: Sepa más
         url: /features
         style: primary
   - section_id: features
